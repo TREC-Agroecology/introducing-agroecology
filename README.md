@@ -1,4 +1,4 @@
-# Introducing Agroecology - Extension Training Materials
+﻿# Introducing Agroecology - Extension Training Materials
 
 This is a [forkable](https://help.github.com/articles/fork-a-repo/) set of teaching materials for teaching practitioners the basics of agroecology through
 the introduction of foundational concepts and interactive learning activities.
@@ -99,3 +99,5 @@ After pushing to GitHub:
 Development of this material is funded by [UF/IFAS Extension](http://sfyl.ifas.ufl.edu/)
 through IST #31557, “What is Agroecology and how is it relevant to your 
 Extension program?” and Hatch Project FLA-TRC-005661.
+
+## I DID IT!!!
