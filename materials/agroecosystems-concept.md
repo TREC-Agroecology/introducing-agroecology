@@ -26,6 +26,7 @@ language: Intro
       - cover crop, intercrop, buffer strip
       - soil quality, windbreak, diversity
       - forage
+![Environment_AE]({{ site.baseurl }}/materials/Agroecosystems_layers/Good_and_Bad_plants.png)
    - plant competitor 
       - weed
       - shade, disease, diversity
