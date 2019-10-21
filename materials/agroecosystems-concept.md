@@ -19,6 +19,7 @@ language: Intro
    - temperature
    - light
    - soil
+![Environment_AE]({{ site.baseurl }}/materials/Agroecosystems_layers/Environment_AE.png)
 - Plant community
    - crop plant
    - plant cooperator
