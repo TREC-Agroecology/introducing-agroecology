@@ -35,6 +35,7 @@ agriculture
 - Fuqua, Winn, Packwood & Hollings, 1983. The Federal Role in Fostering University.
 - Paulo Freire,1970. Pedagogy of the Oppressed.
 - Rosset and Altieri. 2017. Agroecology: Science and Politics.
+- [Chiles, et al. 2018, Agri-food firms, universities, and corporate social responsibility](https://www.cambridge.org/core/journals/renewable-agriculture-and-food-systems/article/agrifood-firms-universities-and-corporate-social-responsibility-whats-in-the-public-interest/79CE273EF466BD9C6B4D4D5345420D39)
 
 #### Online Resources
 
