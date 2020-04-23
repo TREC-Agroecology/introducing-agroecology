@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 element: notes
 title: Goals and Principles
@@ -6,6 +6,8 @@ language: Intro
 ---
 
 ### What is Agroecology?
+
+![Whole_AE]({{ site.baseurl }}/materials/Whole_AE.png)
 
 Agroecology is…
 
@@ -15,6 +17,8 @@ Agroecology is…
 - the maintenance of resilient agroecosystems.
 
 ### Goals
+
+![goal-oriented-scorecard]({{ site.baseurl }}/materials/goal-oriented-scorecard.png)
 
 - Sustain production
 - Conserve natural resources
