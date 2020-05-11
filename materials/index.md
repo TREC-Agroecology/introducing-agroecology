@@ -5,13 +5,13 @@ title: Lecture Materials
 
 ### Agroecology IST
 
-<<<<<<< HEAD
+
 - [Introductions](introductions)
 - [Why Agroecology?](why-agroecology)
 - [A Brief History](brief-history)
 - [Principles from Ecology](ecology-principles)
 - [Extension Work Groups, Initiatives, and Indicators](extension-impacts)
-=======
+
 ### SQL <a name="SQL"></a>
 
 #### Course Notes
@@ -145,4 +145,4 @@ are no longer under active development.*
 -   [Linking Databases]({{ site.baseurl }}/materials/access-linking-databases)
 -   [Setting up an ODBC connection in Windows]({{ site.baseurl }}/materials/setting-up-an-odbc-connection-in-windows)
 -   [Reports]({{ site.baseurl }}/materials/access-reports)
->>>>>>> 6bc8439c632f453a7722be785063382c17a58803
+
