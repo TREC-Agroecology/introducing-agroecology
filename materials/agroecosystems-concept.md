@@ -5,11 +5,17 @@ title: The Agroecosystems Concept
 language: Intro
 ---
 
-> - Pass out the large sheet of poster paper. 
+> - Pass out the large sheet of poster paper.
 > - Instruct to fold in half and number like a book/card 1-4.
 
-### The Players Diagram
+### Agroecosystem Diagram
 
+![Whole_AE](diagram-images/agroecosystem-highlights.png){:height="75%" width="75%"}
+
+Crop plant - the focus of productivity for the agroecosystem
+![crop](diagram-images/single-tomato-plant.png){:height="15%" width="15%"}
+Crop population - grouping of crop plant in monoculture
+![population](diagram-images/tomatoes.png){:height="50%" width="50%"}
 
 - Agroecosystem focus
    - crop plant
@@ -25,7 +31,7 @@ language: Intro
       - cover crop, intercrop, buffer strip
       - soil quality, windbreak, diversity
       - forage
-   - plant competitor 
+   - plant competitor
       - weed
       - shade, disease, diversity
 - Invertebrate community
@@ -67,5 +73,3 @@ language: Intro
 - Space and Time
 
 > Do [Know your Agroecosystem]({{ site.baseurl }}/activities/The-agroecosystems-concept-know-your-agroecosystem-Intro), Step 3
-
- 
