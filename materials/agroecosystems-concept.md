@@ -10,16 +10,28 @@ language: Intro
 
 ### The Players Diagram
 
+![AgroecologySystemsDiagram_Full]({{ site.baseurl }}/materials/AgroecologySystemsDiagram_Full.png)
 
 - Agroecosystem focus
    - crop plant
+
+![Single_crop]({{ site.baseurl }}/materials/Single_crop.png)
+
    - livestock
+
 - Environmental context
+
+![Environment_AE]({{ site.baseurl }}/materials/Environment_AE.png)
+
    - water
    - temperature
    - light
    - soil
-- Plant community
+
+- Plant community 
+
+![Covercrops.weeds.buffer]({{ site.baseurl }}/materials/Covercrops.weeds.buffer.png)
+
    - crop plant
    - plant cooperator
       - cover crop, intercrop, buffer strip
@@ -28,7 +40,11 @@ language: Intro
    - plant competitor 
       - weed
       - shade, disease, diversity
+
 - Invertebrate community
+
+![Invertebrate_composite]({{ site.baseurl }}/materials/Invertebrate_composite.png)
+
    - beneficial inverts
       - pollinators
       - predators
@@ -38,18 +54,25 @@ language: Intro
       - herbivores
       - borers
       - disease vectors
+
 - Vertebrate community
+
+![Vertebrate_composite]({{ site.baseurl }}/materials/Vertebrate_composite.png)
+
    - herbivore
       - manure leaver
       - weed eater
       - crop eater
       - seed disperser
    - carnivore
+
 - People
+
+![AgroecologySystemsDiagram_Final]({{ site.baseurl }}/materials/AgroecologySystemsDiagram_Final.png)
+
    - manager
    - consumer
 
-![agroecosystem diagram]({{ site.baseurl }}/materials/agroecosystem-diagram.png)
 
 > Do [Know your Agroecosystem]({{ site.baseurl }}/activities/The-agroecosystems-concept-know-your-agroecosystem-Intro), Step 1
 
