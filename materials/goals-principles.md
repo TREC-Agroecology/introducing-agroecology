@@ -7,8 +7,6 @@ language: Intro
 
 ### What is Agroecology?
 
-![Whole_AE]({{ site.baseurl }}/materials/Whole_AE.png)
-
 Agroecology is…
 
 - the framing of agriculture as an ecological system.
@@ -54,6 +52,6 @@ Agroecology is…
 
 ### Resilience
 
-- persistence of systems in the face of change or disturbance 
+- persistence of systems in the face of change or disturbance
 - agroecosystem variation due to natural or anthropogenic causes
 - Resilience != stability
