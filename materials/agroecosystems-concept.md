@@ -5,7 +5,7 @@ title: The Agroecosystems Concept
 language: Intro
 ---
 
-{% capture imageurl %}{{ site.url | append: site.baseurl }}/materials/diagram-images/{% endcapture %}
+{% capture imageurl %}{{ site.baseurl }}/materials/diagram-images/{% endcapture %}
 {% capture click %}full-sized image{% endcapture %}
 
 > - Pass out the large sheet of poster paper.
