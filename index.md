@@ -2,22 +2,18 @@
 layout: default
 ---
 
-This website hosts the material for the UF/IFAS Extension IST 31557, "What is
-Agroecology and how is it relevant to your Extension program?". The IST is
-designed to improve awareness and utility of foundational themes in agroecology
-relevant across Extension programs. Participants will be provided a suite of
-resources through this site and opportunities for direct application of
+This website hosts educational materials to introduce
+agroecology. Want to get started right away??
+
+<a href="{{ site.baseurl}}/JUMP-to-intro-readings">
+<i class="fa fa-angle-double-right fa-fw"></i> Head to the intro readings.</a>
+
+The structure of the site was established for the UF/IFAS Extension IST 31557,
+"What is Agroecology and how is it relevant to your Extension program?". The IST
+was designed to improve awareness and utility of foundational themes in
+agroecology relevant across Extension programs. Participants had access to a
+suite of resources through this site and opportunities for direct application of
 agroecology activities and innovation­ to their Extension programming.
- 
-After completing this training, participants will:
-- understand the goals and guiding principles of agroecology.
-- understand key ecological concepts integrating agriculture, natural resource 
-management, and community development.
-- be able to describe the components of an agroecosystem and specifically
-identify an agroecosystem relevant to his/her work.
-- be able to apply the agroecology framework for program development,
-specifically in relation to priority work group areas, impact reporting
-indicators, and logic models.
 
 Workshop Links
 : <a href="{{ site.baseurl}}/agenda.pdf">

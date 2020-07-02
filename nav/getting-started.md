@@ -3,9 +3,11 @@ layout: page
 title: Getting Started
 ---
 
-Self-Guided Students
+Quick Start
+: <a href="{{ site.baseurl}}/JUMP-to-intro-readings">
+  <i class="fa fa-exclamation-circle fa-fw"></i> Jump to Intro Readings</a>
 : <a href="{{ site.baseurl}}/START-for-self-guided-students">
-  <i class="fa fa-play-circle fa-fw"></i> Start Here</a>
+  <i class="fa fa-play-circle fa-fw"></i> Start for Self Guided Workshop</a>
 
 Workshop Participants
 : <a href="{{ site.baseurl}}/agenda.pdf">
